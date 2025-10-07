@@ -21,8 +21,6 @@ HTML – page structure
 
 CSS – styling and layout
 
-JavaScript – interactivity and dynamic elements
-
 ---
 
 # 🚀 Getting Started
@@ -30,7 +28,7 @@ To run the project locally:
 
 Clone the repository or download the project files.
 
-Make sure all files (index.html, style.css, script.js, and the images folder) are in the same directory.
+Make sure all files (index.html, style.css, and the images folder) are in the same directory.
 
 Open index.html in your browser to view the website.
 
